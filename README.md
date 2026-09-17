@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jomar! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jomar! <br/><a href="https://github.com/jomarcybertest">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,37 +6,24 @@
   - [Praciting DS & Algos in Python](https://github.com/jomarcybertest/)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Google Cybersecurity Certification
+- >[Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/E764HLEHVQQ7)
+- >[Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/P1I1VT3BXI7Z)
+- >[Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/M7XQQKDFL3W2)
+- >[Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/BLC8PU2H2CDN)
+- >[Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/M24ISNS891SU)
+- >[Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/36I1Q5G5L6KI)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="jomar-banguero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[linkedin]: www.linkedin.com/in/jomar-banguero-455878240
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
