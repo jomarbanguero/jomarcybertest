@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeypot and SIEM detection pipeline (Microsoft Azure)</b>
-  - [Praciting DS & Algos in Python](https://github.com/jomarcybertest/)
+  - [SIEM Detection Lab](https://github.com/jomarbanguero/SIEMDetectionLab)
 
 
 <h2>Certifications</h2>
