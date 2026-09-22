@@ -8,7 +8,13 @@
 
 <h2>Certifications</h2>
 
-- Google Cybersecurity Certification
+Claude Certified Architect
+- >[Claude Certified Architect - Foundations(CCAR-F)](https://i.imgur.com/g8AUWDQ)
+
+CompTIA Project+
+- >[CompTIA Project+ (PKO-005)](https://i.imgur.com/FT8QtdB.jpeg)
+
+Google Cybersecurity Certification
 - >[Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/E764HLEHVQQ7)
 - >[Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/P1I1VT3BXI7Z)
 - >[Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/M7XQQKDFL3W2)
