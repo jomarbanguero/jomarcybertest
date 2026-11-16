@@ -4,6 +4,8 @@
 
 - <b>Honeypot and SIEM detection pipeline (Microsoft Azure)</b>
   - [SIEM Detection Lab](https://github.com/jomarbanguero/SIEMDetectionLab)
+- <b>Service Desk</b>
+  - [SIEM Detection Lab](https://github.com/jomarbanguero/SIEMDetectionLab)
 
 
 <h2>Certifications</h2>
