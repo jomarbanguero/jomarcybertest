@@ -6,6 +6,8 @@
   - [SIEM Detection Lab](https://github.com/jomarbanguero/SIEMDetectionLab)
 - <b>Service Desk Lab</b>
   - [IT Help Desk Management System](https://github.com/jomarbanguero/ServiceDesk-Helpdesk-Management-System)
+- <b>Phishing Email Analysis Lab</b>
+  - [Python-Based Email Security Investigation](https://github.com/jomarbanguero/Phishing-Email-Analysis-Lab/blob/main/README.md)
 
 
 <h2>Certifications</h2>
